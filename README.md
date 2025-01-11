@@ -5,11 +5,8 @@ This project provides a collection of diagrams and visualization tools to help u
 
 ## Features
 - Support for multiple diagram types:
-  - Flowcharts
-  - Sequence diagrams 
-  - Entity-relationship diagrams
-  - UML diagrams
-  - Architecture diagrams
+  - Basic Diagrams
+  - Programming Languages
 - Easy-to-use interface
 - Export to various formats (PNG, SVG, PDF)
 - Version control friendly
